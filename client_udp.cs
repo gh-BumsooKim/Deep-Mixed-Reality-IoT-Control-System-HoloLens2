@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Net;
 using System.Net.Sockets;
 
-public class Socket_01 : MonoBehaviour
+public class client_udp : MonoBehaviour
 {
     public void socket_client()
     {
