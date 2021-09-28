@@ -12,6 +12,10 @@
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
+[Aa]ssets/MRTK/
+[Aa]ssets/MixedRealityToolkit.Generated/
+[Aa]ssets/TextMesh Pro/
+[Aa]ssets/MRTK.Tutorials.GettingStarted/
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
