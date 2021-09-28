@@ -38,3 +38,7 @@
 
 ## Reference
 -->
+
+preliminary study
+
+- **Home Device Control Interface in Mixed Reality using HoloLens 2, CALSEC21 (Best Paper Award)**
