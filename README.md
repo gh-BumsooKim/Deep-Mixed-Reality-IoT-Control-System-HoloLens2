@@ -11,6 +11,10 @@
 <br>(* CAU A&T)
 -->
 
+<p align="center">
+  <img src="imgs/pre_diagram.png">
+</p>
+
 ## Environment
 
 ### Client (HoloLens2)
@@ -39,6 +43,11 @@
 ## Reference
 -->
 
-preliminary study
 
-- **Home Device Control Interface in Mixed Reality using HoloLens 2, CALSEC'21 (Best Paper Award)**
+## preliminary study
+
+<p align="center">
+  <img src="imgs/pre_functions.png">
+</p>
+
+\- **Home Device Control Interface in Mixed Reality using HoloLens 2, CALSEC'21 (Best Paper Award)**
