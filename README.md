@@ -3,17 +3,15 @@
 ![GitHub](https://img.shields.io/github/license/gh-BumsooKim/Mixed-Reality-IoT-Control-System-HoloLens2)
 ![GitHub repo size](https://img.shields.io/github/repo-size/gh-BumsooKim/Mixed-Reality-IoT-Control-System-HoloLens2)
 
-### [Paper]() | [Site]()
+[Paper] (Domestic Conference) **\[Preliminary Study\]** : ***Home Device Control Interface in Mixed Reality using HoloLens 2 (Best Paper Award)***, Proceeding D1-2 pp75~76, CALSEC-Fall, 2021. (07.02 Poster)
+
+[Paper] *Next project will be updated with open source, soon* : ***Mixed Reality System of IoT Telecommunication with Deep Learning using HoloLens 2***
 
 <!--
 <br>[BumSoo Kim](https://github.com/gh-BumsooKim)\*
 <br>Graphics Realization Lab, CAU
 <br>(* CAU A&T)
 -->
-
-<p align="center">
-  <img src="imgs/pre_diagram.png">
-</p>
 
 ## Environment
 
@@ -44,7 +42,11 @@
 -->
 
 
-## preliminary study
+## Preliminary Study
+
+<p align="center">
+  <img src="imgs/pre_diagram.png">
+</p>
 
 <p align="center">
   <img src="imgs/pre_functions.png">
